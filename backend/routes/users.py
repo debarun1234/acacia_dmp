@@ -9,11 +9,9 @@ from werkzeug.security import generate_password_hash
 user_router = APIRouter()
 
 @user_router.get("/profile")
-def get_profile(token: str, db: Session = Depends(get_db)):
-    """ Get user profile """
-    user_data = verify_token(token)
-    user = db.query(User).filter(User.id == user_data["user_id"]).first()
-    return {"username": user.username, "tech_area": user.tech_area, "role": user.role}
+def get_profile(user: User = Depends(verify_token), db: Session = Depends(get_db)):
+    """ Get the profile of the logged-in user """
+    return {"username": user.username, "tech_area": user.tech_area}
 
 @user_router.put("/update-password")
 def update_password(user_login: UserLogin, token: str, db: Session = Depends(get_db)):

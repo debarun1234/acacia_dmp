@@ -1,0 +1,659 @@
+{
+    "desks": {
+        "2.WS.059": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.060": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.061": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.062": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.063": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.064": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.065": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PAID/GCIS"
+        },
+        "2.WS.066": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.067": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.068": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.069": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.070": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.071": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.072": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.073": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.074": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.075": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.076": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.077": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.078": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.079": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.080": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.081": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.086": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.087": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.088": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.089": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payment Services"
+        },
+        "2.WS.082": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.083": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.084": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.085": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.090": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.091": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.092": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.093": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.094": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.095": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.096": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.097": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.098": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.099": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.100": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.101": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.102": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.103": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.104": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.105": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.106": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.107": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.108": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.109": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.110": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.111": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.112": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.113": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.114": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.115": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Payments Engineering"
+        },
+        "2.WS.116": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Architecture"
+        },
+        "2.WS.117": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Architecture"
+        },
+        "2.WS.118": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Architecture"
+        },
+        "2.WS.119": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.120": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.121": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.122": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.123": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.124": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.125": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.126": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.127": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.128": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.129": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.130": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.131": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.132": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.133": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.134": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.135": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.136": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.137": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.138": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.139": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.140": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.141": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.154": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.155": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.156": {
+            "status": "available",
+            "user": "",
+            "tech_area": "Wholesale Digital"
+        },
+        "2.WS.142": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.143": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.144": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.145": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.146": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.147": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.148": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.149": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.150": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.151": {
+            "status": "occupied",
+            "user": "Debarun",
+            "tech_area": "PRESS"
+        },
+        "2.WS.152": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.153": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.157": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.158": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.159": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.160": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.161": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.162": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.163": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.164": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.165": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.166": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.167": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.168": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.169": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.170": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.171": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.172": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.173": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.174": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.175": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.176": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.177": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.178": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.179": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.180": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.181": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.182": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.183": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.184": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.185": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.186": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.187": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.188": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        },
+        "2.WS.189": {
+            "status": "available",
+            "user": "",
+            "tech_area": "PRESS"
+        }
+    }
+}
